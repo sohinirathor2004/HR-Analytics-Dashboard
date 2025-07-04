@@ -1,6 +1,7 @@
 # 👩‍💼 HR Analytics Dashboard - Tableau Project
 
-![HR Dashboard](./HR%20Analystics%20Dashboard.PNG)
+(.![HR Analystics Dashboard](https://github.com/user-attachments/assets/f87d2802-416c-4253-9131-f996d3fe8d24)
+)
 
 This **HR Analytics Dashboard**, created using **Tableau**, visualizes key human resource metrics including employee attrition, job satisfaction, department distribution, and education background. The dashboard supports HR decision-making by providing deep insights into workforce trends.
 
@@ -52,15 +53,6 @@ To analyze workforce data to uncover:
 
 - **Tableau Desktop**
 - **Excel (Data Source)**
-
-## 📂 Project Structure
-
-```
-📁 HR-Analytics-Dashboard/
-│
-├── 📷 HR Analystics Dashboard.PNG    # Tableau dashboard image
-├── 📄 README.md                      # Project documentation
-```
 
 ## 🚀 How to Use
 
